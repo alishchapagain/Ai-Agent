@@ -1,6 +1,6 @@
 """
 Duplicate value are notr allowed in set.
-Set is unorderd so print value is random sequence
+Set is unorderd so print value is random sequence.
 """
 
 collection={1,2,5,"Namaste","Duniya",1,4,"Namaste"}
