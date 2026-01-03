@@ -1,0 +1,15 @@
+{
+    "name": "Alish",
+    "roll_no": 12,
+    "subjects": [
+        "Physics",
+        "Chemistry",
+        "Math"
+    ],
+    "marks": {
+        "Physics": 78,
+        "Chemistry": 69,
+        "Math": 85
+    },
+    "passed": true
+}
